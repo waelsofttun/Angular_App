@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class ServerComponent {
 
+  //interpolation databinding
+  serverId : number = 10 ;
+  ServerState:string='Online';
+
+
 }
